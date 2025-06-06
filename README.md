@@ -257,6 +257,6 @@ These insights can help businesses:
     - Optimize inventory for high-demand categories  
     - Time promotions for peak buying hours  
     - Segment customers for targeted marketing  
-    -Track product/category-level performance over time  
+    - Track product/category-level performance over time  
 
 
